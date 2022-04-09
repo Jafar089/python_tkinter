@@ -1,0 +1,14 @@
+Name jafar sherazi 
+ Age 20 
+ Email syedsherazi1214572@gmail.com 
+ Class 14 
+ Gender Male 
+ Channel YES
+ User type Student
+Name jafar 
+ Age  
+ Email  
+ Class 0 
+ Gender Male 
+ Channel NO
+ User type 
